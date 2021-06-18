@@ -1,1 +1,1 @@
-# -my-guixpackages-
+# my-guixpackages
